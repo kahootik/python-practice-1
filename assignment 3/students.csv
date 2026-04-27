@@ -1,0 +1,11 @@
+student_id,age,gender,country,GPA
+S001,20,Male,KZ,3.6
+S002,21,Female,KZ,3.7
+S003,22,Male,KZ,3.8
+S004,23,Female,KZ,3.9
+S005,24,Male,KZ,4.0
+S006,20,Male,KZ,3.2
+S007,21,Female,KZ,3.1
+S008,22,Male,KZ,3.0
+S009,23,Female,KZ,2.9
+S010,24,Male,KZ,2.8 csv

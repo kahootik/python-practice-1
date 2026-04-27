@@ -1,0 +1,7 @@
+{
+    "total_students": 10,
+    "avg_gpa": 3.4,
+    "max_gpa": 4.0,
+    "min_gpa": 2.8,
+    "high_performers": 5
+}
